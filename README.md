@@ -32,7 +32,7 @@ This project provides a simple implementation to send POST requests for thermal 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/esp8266-thermal-printer.git
+   git clone https://github.com/harvindran11/esp8266-thermal-printer.git
    ```
 
 2. Open the project in the Arduino IDE.
