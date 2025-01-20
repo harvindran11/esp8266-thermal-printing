@@ -1,4 +1,3 @@
-# esp8266-thermal-printing
 # Thermal Printer Integration with ESP8266
 
 This project provides a simple implementation to send POST requests for thermal printing using ESC/POS commands via an ESP8266 microcontroller. It supports basic text printing but does not support Chinese characters.
